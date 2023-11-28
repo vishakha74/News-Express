@@ -1,0 +1,49 @@
+.login-container {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 120px;
+}
+
+.login-box {
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #aaa;
+}
+
+.login-header {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.login-label {
+  display: block;
+  font-weight: 500;
+}
+
+.login-input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.login-btn {
+  background-color: #3498db;
+  color: #fff;
+  padding: 15px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.login-btn:hover {
+  background-color: #2980b9;
+}
+
+.success-msg {
+  color: green;
+  font-weight: bold;
+  margin-top: 20px;
+}
